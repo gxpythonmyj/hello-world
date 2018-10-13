@@ -1,0 +1,9 @@
+pycharm使用github操作步骤：
+打开pycharm －－＞File－－＞setings－－＞搜索github－－＞点击会出现github，然后在旁边输入你github的用户名和密码，绑定帐号．
+创建Github的仓库
+点击VSC——Import into Version Control－－＞Share Project on Github－－＞然后会弹出框让你输入一个仓库名（不能为中文）－－＞然后点击share
+然后会弹出让你选择哪些文件需要被同步，选好后，在下面的commit Message可以输入自己的信息，然后点OK，你的代码就提交到网上了。
+修改后的文件提交
+对修改后的文件或目录点击右键：Git——Add，先把文件放入暂存区
+然后点击刚才Add上面的commit file
+填好commit的信息后，点击下面的commit and Push，可以直接提交到网上
